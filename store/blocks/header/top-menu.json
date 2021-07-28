@@ -1,8 +1,7 @@
 {
   "vtex.menu@2.x:menu#websites": {
     "children": [
-      "menu-item#shop",
-      "menu-item#about-us"
+      "menu-item#shop"
     ]
   },
   "menu-item#shop": {
@@ -33,10 +32,10 @@
       "highlight": false,
       "itemProps": {
         "type": "external",
-        "href": "http://vtex.com",
+        "href": "http://codeblue.com.br",
         "noFollow": false,
-        "tagTitle": "visit vtex.com",
-        "text": "visit vtex.com"
+        "tagTitle": "Feito por Codeblue",
+        "text": "Feito por Codeblue"
       }
     }
   }
