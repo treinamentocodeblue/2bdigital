@@ -25,8 +25,8 @@
   },
   "rich-text#deal1": {
     "props": {
-      "text": "### Diego! flçasd ",
-      "blockClass": "deals"
+      "text": "Diego! flçasd ",
+      "blockClass": "first-deal"
     }
   },
   "flex-layout.col#deals2": {
@@ -43,7 +43,7 @@
   },
   "rich-text#deal2": {
     "props": {
-      "text": "One day delivery",
+      "text": "One **day** delivery",
       "blockClass": "deals"
     }
   },

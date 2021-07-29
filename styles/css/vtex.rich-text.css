@@ -1,7 +1,19 @@
+.headingLevel2{
+  font-size:16px;
+  text-decoration:underline;
+}
+
 .container--deals {
   color: #ffffff;
   text-align: center;
   justify-content: center;
+}
+
+.paragraph--first-deal{
+  color:#900;
+  text-align: center;
+  justify-content: center;
+  font-weight:bold;
 }
 
 .container--shelfTitle {

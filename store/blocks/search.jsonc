@@ -64,6 +64,7 @@
     "children": [
       "flex-layout.row#searchbread",
       "flex-layout.row#searchtitle",
+      "flex-layout.row#banner-dpto",
       "flex-layout.row#result"
     ],
     "props": {
@@ -81,6 +82,14 @@
   },
   "flex-layout.row#searchtitle": {
     "children": ["search-title.v2"]
+  },
+  "flex-layout.row#banner-dpto":{
+    "children": ["image#banner-dpto"]
+  },
+  "image#banner-dpto":{
+    "props": {
+      "src": "/arquivos/banner.jpg"
+    }
   },
   "flex-layout.row#result": {
     "children": ["flex-layout.col#filter", "flex-layout.col#content"],

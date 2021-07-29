@@ -16,8 +16,8 @@
   }
 }
 
-.flexRowContent--menu-link {
-  background-color: #03044e;
+.flexRow--menu-link .flexRowContent--menu-link {
+  background-color: #900;
   color: #fff;
 }
 
@@ -40,6 +40,7 @@
   color: #727273;
   font-size: 14px;
 }
+
 .flexRow--deals {
   background-color: #a7afbd;
   padding: 14px 0px;
